@@ -21,6 +21,10 @@ Tela de carteirinha digital:
 Dashboard ADM:
 ![dashboard adm](https://github.com/user-attachments/assets/116c8c17-a6c5-4407-8eb7-55450e634aed)
 
+Relátorio de vendas ADM:
+![Vendasadm](https://github.com/user-attachments/assets/25bd1115-b7f2-4db1-84ea-ad5f14b31f48)
+
+
 
 
 
