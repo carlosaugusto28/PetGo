@@ -44,15 +44,13 @@ Relátorio de vendas ADM:
 - Documentação mínima (este README + comentários) para facilitar manutenção e extensibilidade.
 
 ## 🧰 Tecnologias utilizadas  
-- Linguagens: Python (back-end), JavaScript/HTML/CSS (front-end)  
-- Frameworks / bibliotecas: <INSIRA AQUI as tecnologias específicas que você usou>  
-- Banco de dados: <INSIRA AQUI: MySQL, PostgreSQL, SQLite ou outro>  
+- Linguagens: Python (back-end), JavaScript/HTML/CSS (front-end)    
+- Banco de dados: <noSQL>  
 - Estrutura de pastas: controllers, models, routes, service — o que facilita divisão de responsabilidades.  
 - Gerenciamento de dependências: requirements.txt  
 - Arquitetura: MVC ou similar, separação de camadas, visão de escalabilidade.  
-- Outras ferramentas: Git para versionamento, (se aplicável) Docker / Docker Compose para ambiente de desenvolvimento, testes automatizados, etc.  
-- Front-end responsivo: CSS e possivelmente framework (Bootstrap, Tailwind etc) — adapte conforme o que você usou.
-
+- Outras ferramentas: Git para versionamento.  
+- Front-end responsivo: CSS
 
 ## 🚀 Como Executar Localmente  
 1. Clone o repositório:  
