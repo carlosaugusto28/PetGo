@@ -18,6 +18,11 @@ Tela de produtos:
 Tela de carteirinha digital:
 <img width="1582" height="758" alt="image" src="https://github.com/user-attachments/assets/5721c49c-4806-432c-bd09-86490b1795f5" />
 
+Dashboard ADM:
+![dashboard adm](https://github.com/user-attachments/assets/116c8c17-a6c5-4407-8eb7-55450e634aed)
+
+
+
 
 
 
