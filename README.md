@@ -2,7 +2,7 @@
 _Site e sistema para pet shop com diversas funcionalidades_
 
 ## 🐾 Visão Geral  
-O PetGo é um projeto desenvolvido como Trabalho de Conclusão de Curso (TCC). Ele foi criado para demonstrar competência técnica em front-end, back-end, arquitetura escalável e boas práticas de codificação.
+O PetGo é um projeto desenvolvido como Portfólio. Ele foi criado para demonstrar competência técnica em front-end, back-end, arquitetura escalável e boas práticas de codificação.
 
 Principais objetivos:  
 - Criar uma aplicação real que integre funcionalidades úteis para um pet shop (cadastro de clientes, pets, agendamentos, serviços, produtos etc).  
@@ -11,6 +11,14 @@ Principais objetivos:
   
 Tela inicial PetGo:
 <img width="1583" height="762" alt="image" src="https://github.com/user-attachments/assets/c6c14ffc-6c2b-4448-9a20-85fed738d658" />
+
+Tela de produtos:
+<img width="1588" height="767" alt="image" src="https://github.com/user-attachments/assets/1435a699-31c5-423a-917e-76fe5b48c06d" />
+
+Tela de carteirinha digital:
+<img width="1582" height="758" alt="image" src="https://github.com/user-attachments/assets/5721c49c-4806-432c-bd09-86490b1795f5" />
+
+
 
 
 
