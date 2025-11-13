@@ -9,7 +9,7 @@ Principais objetivos:
 - Demonstrar a capacidade de trabalhar com tecnologias modernas (por exemplo: escopo front-end + back-end em Python, integração com banco de dados, camadas de serviço, rotas, modelos MVC, etc).  
 - Expor no portfólio um projeto completo, com arquitetura, testes, deploy ou ambiente local dockerizado (caso aplicável), para que recrutadores vejam o nível de maturidade técnica.
 
-
+src = "README\IMG\carrinho.jpeg"
 
 
 ## 🎯 Funcionalidades principais  
