@@ -9,6 +9,9 @@ Principais objetivos:
 - Demonstrar a capacidade de trabalhar com tecnologias modernas (por exemplo: escopo front-end + back-end em Python, integração com banco de dados, camadas de serviço, rotas, modelos MVC, etc).  
 - Expor no portfólio um projeto completo, com arquitetura, testes, deploy ou ambiente local dockerizado (caso aplicável), para que recrutadores vejam o nível de maturidade técnica.
 
+
+
+
 ## 🎯 Funcionalidades principais  
 - Cadastro de **Clientes** e **Pet(s)** associados.  
 - Gerenciamento de **Serviços** (ex: banho, tosa, vacinação) e **Produtos** (acessórios, rações).  
@@ -30,32 +33,6 @@ Principais objetivos:
 - Outras ferramentas: Git para versionamento, (se aplicável) Docker / Docker Compose para ambiente de desenvolvimento, testes automatizados, etc.  
 - Front-end responsivo: CSS e possivelmente framework (Bootstrap, Tailwind etc) — adapte conforme o que você usou.
 
-## 📁 Estrutura do Projeto
-PetGo/
-├── app/
-├── config/
-├── controllers/
-├── models/
-├── public/
-├── routes/
-├── service/
-├── views/
-├── main.py
-├── requirements.txt
-├── arquitetura.txt
-└── logo_base64.txt
-
-
-- `main.py` — ponto de entrada da aplicação.  
-- `controllers/` — lógica de entrada das requisições.  
-- `models/` — definição das entidades (Clientes, Pets, Produtos, Serviços).  
-- `service/` — lógica de negócio, regras de aplicação.  
-- `routes/` — definição das rotas/endpoints.  
-- `views/` — camada de interface (caso seja servidor-renderizado) ou front-end.  
-- `public/` — arquivos estáticos (imagens, CSS, JS).  
-- `config/` — configuração do ambiente (ex: banco de dados, variáveis de ambiente).  
-- `arquitetura.txt` — descrição escrita da arquitetura aplicada no projeto.  
-- `logo_base64.txt` — arquivo com logo em base64 (uso interno ou front-end).
 
 ## 🚀 Como Executar Localmente  
 1. Clone o repositório:  
